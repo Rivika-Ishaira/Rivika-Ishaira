@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Rivika-Ishaira/Rivika-Ishaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Rivika Ishaira**, a frontend-focused developer who enjoys building clean, thoughtful, and user-friendly interfaces.
 
-Here are some ideas to get you started:
+I mostly work with **React**, **TypeScript**, and **Tailwind**, and I like adding subtle motion and interactions when they enhance the experience. I care a lot about simplicity, clarity, and how things *feel* to use — not just how they look.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a fresh profile where I’ll be sharing smaller projects, experiments, and things I’m currently working on. Everything here is built from scratch — no copy/paste templates, just learning and building.
+
+---
+
+### 🛠️ Tools & Tech
+- React, TypeScript, Tailwind  
+- Motion & micro-interactions  
+- Figma for UI design and layouts  
+- Notes & sketches for planning ideas  
+
+---
+
+### 🌱 A Bit About Me
+- I enjoy simple, minimal, and functional design  
+- Prefer clarity over complexity  
+- Like experimenting and learning by doing  
+- Into anime and storytelling  
+- Always improving, always curious  
+
+---
+
+✨ More projects coming soon.
