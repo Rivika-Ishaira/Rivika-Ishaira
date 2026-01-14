@@ -1,7 +1,3 @@
-<div style="display: flex; align-items: flex-start; gap: 24px;">
-
-  <div style="flex: 1;">
-
 ## Hi there 👋
 
 I’m **Rivika Ishaira**, a frontend-focused developer who enjoys building clean, thoughtful, and user-friendly interfaces.
@@ -30,23 +26,3 @@ This is a fresh profile where I’ll be sharing smaller projects, experiments, a
 ---
 
 ✨ More projects coming soon.
-
-  </div>
-
-  <div style="flex-shrink: 0;">
-    <video
-      src="pfpvideo.mp4"
-      autoplay
-      muted
-      loop
-      playsinline
-      style="
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        object-fit: cover;
-      ">
-    </video>
-  </div>
-
-</div>
